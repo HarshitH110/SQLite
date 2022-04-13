@@ -7,5 +7,7 @@ Project Details : Creating a db for movies
     SQLite has been used programmed with python. 
     
      In this project 
+         A table movie has been created with the name of the movie , lead actor, actress , year of release, name of the director
          
+     
 
