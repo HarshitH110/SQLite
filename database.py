@@ -7,7 +7,7 @@ conn = sqlite3.connect('movies.db')
 
 c = conn.cursor()
 
-c.execute("DROP TABLE movies") 
+
 
 c.execute("""CREATE TABLE movies( 
 	movie_name text,
